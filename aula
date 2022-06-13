@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<style type="text/css">
+		img{
+	width: 60%;
+		}
+		.cen{
+			background-color: black;
+			color: white;
+			background-color:#993399;
+			color:black;
+			padding:25px;
+			width:20%;
+			text-align:center;
+			display: inline-block;
+			border-width: thin;
+			border-style: groove;
+			border-color: blue;
+		}
+		.teste{
+			background-color: black;
+			color: white;
+			padding:100px;
+			background-color:#993399;
+			color:black;
+			width:100%;
+			text-align:center;
+			display: inline-block;
+			border-style: groove;
+			<div id="head">
+			<hl><img src="img/logo.gif" alt=""></hl>
+			</div>
+			}
+		
+	</style>
+</head>
+<body>
+	
+   <div class="teste">
+   <h1>Livraria Gato do Castelo</h1> 
+    </div>
+
+	<div class="teste">
+    <br><br>
+    <center> 
+   	<img src= "https://veja.abril.com.br/wp-content/uploads/2016/05/exposicao-castelo-ra-tim-bum-07152014-74-original.jpeg?quality=70&strip=info&w=928"> 	
+    </center>
+    </div>
+
+
+
+	<h1> Livros Online</OBJECT> </h1>
+	<div>
+	<div class="cen">
+	<h3> Mindset: A nova psicologia do sucesso</h3>
+	<img src= "https://images-na.ssl-images-amazon.com/images/I/71Ils+Co9fL.jpg">
+	<h4>R$ 38,40</h4>
+
+	
+	<a href="https://www.amazon.com.br/Mindset-Carol-S-Dweck/dp/8547000240/ref=asc_df_8547000240/?tag=googleshopp00-20&linkCode=df0&hvadid=379787837906&hvpos=&hvnetw=g&hvrand=17378084149504298192&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031945&hvtargid=pla-333762643170&psc=1"> Compre aqui!</a> </div>
+	
+
+	<div class="cen">
+ 	<h3> O poder do hábito.</h3>
+	<img src= "https://images-na.ssl-images-amazon.com/images/I/81XTXQEVPlL.jpg">
+	<h4> R$ R$ 47,90</h4> 
+	
+	</h4> <a href="https://www.amazon.com.br/poder-do-h%C3%A1bito-Charles-Duhigg/dp/8539004119/ref=pd_sim_sccl_3_1/142-4652595-4640113?pd_rd_w=dKsxn&content-id=amzn1.sym.29b9c548-e884-4ce4-a35d-80876db55178&pf_rd_p=29b9c548-e884-4ce4-a35d-80876db55178&pf_rd_r=57BMG48FR0HEH9M04NPF&pd_rd_wg=FJy2b&pd_rd_r=e0fc6f9c-33e7-4c5d-b4ca-059963437982&pd_rd_i=8539004119&psc=1"> Compre aqui!</a> </div>
+
+	<div class= "cen">
+ 	<h3> Trabalhe 4 horas por semana.</h3>
+	<img src= "https://images-na.ssl-images-amazon.com/images/I/81nUthzU+xL.jpg">
+	<h4>R$ 32,90</h4> 
+	
+	<p> </h4> <a href="https://www.amazon.com.br/Trabalhe-4-Horas-por-Semana/dp/8542211561/ref=pd_sim_sccl_3_24/142-4652595-4640113?pd_rd_w=ZqCBW&content-id=amzn1.sym.29b9c548-e884-4ce4-a35d-80876db55178&pf_rd_p=29b9c548-e884-4ce4-a35d-80876db55178&pf_rd_r=XMRZN1FNXRSQX2W8WC7A&pd_rd_wg=k0IgG&pd_rd_r=a7757e3f-2c6c-4f41-889e-ba8f9be110c4&pd_rd_i=8542211561&psc=1"> Compre Aqui!</a>  </div>
+
+	<div class= "cen">
+ 	<h3>Essencialismo.</h3>
+ 	<img src= "https://images-na.ssl-images-amazon.com/images/I/71VyH0KDyxL.jpg">
+ 	<h4>R$ R$ 36,99</h4> 
+	<a href="https://www.amazon.com.br/Essencialismo-Greg-Mckeown/dp/8543102146/ref=sr_1_5?adgrpid=123359177421&gclid=EAIaIQobChMIkuX-nbWh-AIVEE-RCh2bqATGEAAYASAAEgIOEfD_BwE&hvadid=542038508562&hvdev=c&hvlocphy=1031945&hvnetw=g&hvqmt=e&hvrand=13742904178999774732&hvtargid=kwd-419573508668&hydadcr=5763_11235982&keywords=essencialismo&qid=1654813653&sr=8-5"> Compre Aqui!</a>  </div>
+	<img src="">
+		<br>
+	</div>	
+	<div class= "cen">
+ 	<h3>Mulheres que correm com os lobos</h3>
+ 	<img src= "https://images-na.ssl-images-amazon.com/images/I/7121bMhcNKL.jpg">
+ 	<h4>R$ 39,40</h4>
+ 	<a href="https://www.amazon.com.br/Mulheres-que-Correm-com-Lobos/dp/853252978X/ref=sr_1_1?keywords=mulheres+que+correm+com+lobos&qid=1654814405&sprefix=mulheres%2Caps%2C207&sr=8-1"> Compre Aqui!</a>  </div>
+ 	
+	<div class= "cen">
+ 	<h3>Racismos: Das Cruzadas ao séc...</h3>
+	<img src= "https://images-na.ssl-images-amazon.com/images/I/A1ZV+IHtWcL.jpg">
+	<h4> R$ 59,83</h4>
+ 	<a href="https://www.amazon.com.br/Racismos-Das-Cruzadas-s%C3%A9culo-XX/dp/8535930469/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3SK7YFTEQ9S2M&keywords=racismo&qid=1654814652&sprefix=racismo%2Caps%2C187&sr=8-4"> Compre Aqui!</a>  </div>
+	
+ 	<div class= "cen">
+ 	<h3>O pacto da branquitude</h3>
+	<img src= "https://trechos.org/wp-content/uploads/2022/02/Livro-O-Pacto-da-Branquitude-por-Cida-Bento.jpg">
+	<h4> R$ 33,90</h4>
+ 	<a href="https://www.amazon.com.br/pacto-branquitude-Cida-Bento-ebook/dp/B09SGKDK16"> Compre Aqui!</a>  </div>
+		
+	<div class= "cen">
+ 	<h3>O Pensamento Feminista Negro</h3>
+	<img src= "https://images-na.ssl-images-amazon.com/images/I/A1kCGHffunL.jpg">
+	<h4> R$ 69,76</h4>
+ 	<a href="https://www.boitempoeditorial.com.br/produto/pensamento-feminista-negro-881"> Compre Aqui!</a>  </div>
+ 		
+		<br>
+ 	<div class= "cen">
+ 	<h3>Um feminismo decolonial</h3>
+	<img src= "https://images-na.ssl-images-amazon.com/images/I/915z2XlS+4L.jpg">
+	<h4> R$ 43,37</h4>
+ 	<a href="https://www.amazon.com.br/Um-feminismo-decolonial-Françoise-Vergès/dp/8571260605/ref=pd_sbs_sccl_2_5/132-3709077-2791907?pd_rd_w=UfRwZ&content-id=amzn1.sym.d27ac626-cb3c-4c30-830f-0fd405f2510f&pf_rd_p=d27ac626-cb3c-4c30-830f-0fd405f2510f&pf_rd_r=AWD964S812JCHH61D1B3&pd_rd_wg=JUTB7&pd_rd_r=c65f83f7-dff5-4f48-b1f5-ae9f8aa91baa&pd_rd_i=8571260605&psc=1"> Compre Aqui!</a>  </div>
+
+ 	<div class= "cen">
+ 	<h3>Tornar-se negro</h3>
+	<img src= "https://images-na.ssl-images-amazon.com/images/I/61BQ9FCYIbL.jpg">
+	<h4> R$ 35,00</h4>
+ 	<a href="https://www.amazon.com.br/Tornar-se-negro-vicissitudes-identidade-brasileiro/dp/6559790290/ref=pd_sim_sccl_3_7/132-3709077-2791907?pd_rd_w=cbnGp&content-id=amzn1.sym.29b9c548-e884-4ce4-a35d-80876db55178&pf_rd_p=29b9c548-e884-4ce4-a35d-80876db55178&pf_rd_r=YXJG3F99P3GV903JN46P&pd_rd_wg=eveXj&pd_rd_r=f88b7605-e6eb-4c63-bbbe-0655023ecf95&pd_rd_i=6559790290&psc=1"> Compre Aqui!</a>  </div><div class= "cen">	
+
+
+
+</body>
+</html>
